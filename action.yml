@@ -1,6 +1,6 @@
-name: "Podcast Generator"
+name: "LCC Podcast Generator"
 author: "Leandro Carrigan-Chiasson"
-description: "Generates a feed for a podcast from a YAML file"
+description: "Generates a feed for a podcast from a YAML file."
 
 runs:
   using: "docker"
